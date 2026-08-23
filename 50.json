@@ -1,0 +1,20 @@
+{
+  "name": "大鹏神域 #50 · 蜃火莫比乌斯异龙",
+  "description": "大鹏神域 NFT 系列。图片与元数据以 IPFS 内容地址保存。",
+  "image": "ipfs://bafybeicwspm74icnj4b7xqeuc5umblnl45764dfhavueg47qts3i7qjqpi/images/%E9%92%BB%E7%9F%B3200/04-%E7%94%9F%E8%82%96%E5%BC%82%E5%8C%96-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD046-060/050-%E8%9C%83%E7%81%AB%E8%8E%AB%E6%AF%94%E4%B9%8C%E6%96%AF%E5%BC%82%E9%BE%99-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD-v1.png",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "钻石"
+    },
+    {
+      "trait_type": "主题",
+      "value": "生肖异化"
+    },
+    {
+      "trait_type": "原始编号",
+      "value": 50,
+      "display_type": "number"
+    }
+  ]
+}
