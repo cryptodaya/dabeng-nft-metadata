@@ -1,0 +1,20 @@
+{
+  "name": "大鹏神域 #307 · 双龙衔珠冕",
+  "description": "大鹏神域 NFT 系列。图片与元数据以 IPFS 内容地址保存。",
+  "image": "ipfs://bafybeicwspm74icnj4b7xqeuc5umblnl45764dfhavueg47qts3i7qjqpi/images/%E9%93%B6%E5%8D%A1200/08-%E7%9A%87%E5%86%A0%E7%8E%8B%E6%9D%83-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD106-120/107-%E5%8F%8C%E9%BE%99%E8%A1%94%E7%8F%A0%E5%86%95-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD-%E9%93%B6%E5%8D%A1-v1.png",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "银卡"
+    },
+    {
+      "trait_type": "主题",
+      "value": "皇冠王权"
+    },
+    {
+      "trait_type": "原始编号",
+      "value": 107,
+      "display_type": "number"
+    }
+  ]
+}
