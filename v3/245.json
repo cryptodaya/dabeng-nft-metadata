@@ -1,0 +1,20 @@
+{
+  "name": "银卡 #45 · 天启奇美拉",
+  "description": "大鹏神域 NFT 系列。图片存储于 IPFS，元数据通过链上 URI 提供。",
+  "image": "ipfs://bafybeicwspm74icnj4b7xqeuc5umblnl45764dfhavueg47qts3i7qjqpi/images/%E9%93%B6%E5%8D%A1200/03-%E4%B8%87%E5%85%BD%E6%88%98%E5%9B%A2-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD031-045/045-%E5%A4%A9%E5%90%AF%E5%A5%87%E7%BE%8E%E6%8B%89-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD-%E9%93%B6%E5%8D%A1-v1.jpg",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "银卡"
+    },
+    {
+      "trait_type": "主题",
+      "value": "万兽战团"
+    },
+    {
+      "trait_type": "原始编号",
+      "value": 45,
+      "display_type": "number"
+    }
+  ]
+}

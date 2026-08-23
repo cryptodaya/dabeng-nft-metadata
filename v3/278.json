@@ -1,0 +1,20 @@
+{
+  "name": "银卡 #78 · 星渊王翼鳐",
+  "description": "大鹏神域 NFT 系列。图片存储于 IPFS，元数据通过链上 URI 提供。",
+  "image": "ipfs://bafybeicwspm74icnj4b7xqeuc5umblnl45764dfhavueg47qts3i7qjqpi/images/%E9%93%B6%E5%8D%A1200/06-%E6%B5%B7%E6%B8%8A%E7%8E%8B%E6%9C%9D-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD076-090/078-%E6%98%9F%E6%B8%8A%E7%8E%8B%E7%BF%BC%E9%B3%90-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD-%E9%93%B6%E5%8D%A1-v1.jpg",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "银卡"
+    },
+    {
+      "trait_type": "主题",
+      "value": "海渊王朝"
+    },
+    {
+      "trait_type": "原始编号",
+      "value": 78,
+      "display_type": "number"
+    }
+  ]
+}
