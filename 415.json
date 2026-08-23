@@ -1,0 +1,20 @@
+{
+  "name": "大鹏神域 #415 · 红莲武僧",
+  "description": "大鹏神域 NFT 系列。图片与元数据以 IPFS 内容地址保存。",
+  "image": "ipfs://bafybeicwspm74icnj4b7xqeuc5umblnl45764dfhavueg47qts3i7qjqpi/images/NFT-%E8%87%B3%E5%B0%8A%E5%8D%A1-%E9%BB%91%E9%87%91%E7%81%AB%E7%84%B0-20%E5%BC%A0/15-%E7%BA%A2%E8%8E%B2%E6%AD%A6%E5%83%A7.png",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "至尊卡"
+    },
+    {
+      "trait_type": "主题",
+      "value": "黑金火焰"
+    },
+    {
+      "trait_type": "原始编号",
+      "value": 15,
+      "display_type": "number"
+    }
+  ]
+}
