@@ -1,0 +1,20 @@
+{
+  "name": "大鹏神域 #69 · 熔星灯甲萤",
+  "description": "大鹏神域 NFT 系列。图片与元数据以 IPFS 内容地址保存。",
+  "image": "ipfs://bafybeicwspm74icnj4b7xqeuc5umblnl45764dfhavueg47qts3i7qjqpi/images/%E9%92%BB%E7%9F%B3200/05-%E8%99%AB%E7%94%B2%E5%86%9B%E5%9B%A2-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD061-075/069-%E7%86%94%E6%98%9F%E7%81%AF%E7%94%B2%E8%90%A4-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD-v1.jpg",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "钻石"
+    },
+    {
+      "trait_type": "主题",
+      "value": "虫甲军团"
+    },
+    {
+      "trait_type": "原始编号",
+      "value": 69,
+      "display_type": "number"
+    }
+  ]
+}

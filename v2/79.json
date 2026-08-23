@@ -1,0 +1,20 @@
+{
+  "name": "大鹏神域 #79 · 焰甲海马骑士",
+  "description": "大鹏神域 NFT 系列。图片与元数据以 IPFS 内容地址保存。",
+  "image": "ipfs://bafybeicwspm74icnj4b7xqeuc5umblnl45764dfhavueg47qts3i7qjqpi/images/%E9%92%BB%E7%9F%B3200/06-%E6%B5%B7%E6%B8%8A%E7%8E%8B%E6%9C%9D-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD076-090/079-%E7%84%B0%E7%94%B2%E6%B5%B7%E9%A9%AC%E9%AA%91%E5%A3%AB-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD-v1.jpg",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "钻石"
+    },
+    {
+      "trait_type": "主题",
+      "value": "海渊王朝"
+    },
+    {
+      "trait_type": "原始编号",
+      "value": 79,
+      "display_type": "number"
+    }
+  ]
+}
