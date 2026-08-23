@@ -1,0 +1,20 @@
+{
+  "name": "大鹏神域 #229 · 圣翼炽天凤",
+  "description": "大鹏神域 NFT 系列。图片与元数据以 IPFS 内容地址保存。",
+  "image": "ipfs://bafybeicwspm74icnj4b7xqeuc5umblnl45764dfhavueg47qts3i7qjqpi/images/%E9%93%B6%E5%8D%A1200/02-%E5%87%A4%E9%B8%9F%E5%A4%A9%E7%A9%B9-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD%E6%9C%80%E7%BB%88%E7%89%88016-030/029-%E5%9C%A3%E7%BF%BC%E7%82%BD%E5%A4%A9%E5%87%A4-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD-%E9%93%B6%E5%8D%A1-v1.png",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "银卡"
+    },
+    {
+      "trait_type": "主题",
+      "value": "凤鸟天穹"
+    },
+    {
+      "trait_type": "原始编号",
+      "value": 29,
+      "display_type": "number"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "大鹏神域 #246 · 日蚀噬焰鼠",
+  "description": "大鹏神域 NFT 系列。图片与元数据以 IPFS 内容地址保存。",
+  "image": "ipfs://bafybeicwspm74icnj4b7xqeuc5umblnl45764dfhavueg47qts3i7qjqpi/images/%E9%93%B6%E5%8D%A1200/04-%E7%94%9F%E8%82%96%E5%BC%82%E5%8C%96-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD046-060/046-%E6%97%A5%E8%9A%80%E5%99%AC%E7%84%B0%E9%BC%A0-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD-%E9%93%B6%E5%8D%A1-v1.png",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "银卡"
+    },
+    {
+      "trait_type": "主题",
+      "value": "生肖异化"
+    },
+    {
+      "trait_type": "原始编号",
+      "value": 46,
+      "display_type": "number"
+    }
+  ]
+}
