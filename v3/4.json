@@ -1,0 +1,20 @@
+{
+  "name": "钻石 #4 · 烛龙日蚀",
+  "description": "大鹏神域 NFT 系列。图片存储于 IPFS，元数据通过链上 URI 提供。",
+  "image": "ipfs://bafybeicwspm74icnj4b7xqeuc5umblnl45764dfhavueg47qts3i7qjqpi/images/%E9%92%BB%E7%9F%B3200/01-%E9%BE%99%E6%97%8F%E7%BA%AA%E5%85%83-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD%E9%87%8D%E5%88%B6%E7%89%88001-015/004-%E7%83%9B%E9%BE%99%E6%97%A5%E8%9A%80-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD-v1.jpg",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "钻石"
+    },
+    {
+      "trait_type": "主题",
+      "value": "龙族纪元"
+    },
+    {
+      "trait_type": "原始编号",
+      "value": 4,
+      "display_type": "number"
+    }
+  ]
+}
