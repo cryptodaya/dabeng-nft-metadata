@@ -1,0 +1,20 @@
+{
+  "name": "大鹏神域 #243 · 铁甲鳄皇",
+  "description": "大鹏神域 NFT 系列。图片与元数据以 IPFS 内容地址保存。",
+  "image": "ipfs://bafybeicwspm74icnj4b7xqeuc5umblnl45764dfhavueg47qts3i7qjqpi/images/%E9%93%B6%E5%8D%A1200/03-%E4%B8%87%E5%85%BD%E6%88%98%E5%9B%A2-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD031-045/043-%E9%93%81%E7%94%B2%E9%B3%84%E7%9A%87-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD-%E9%93%B6%E5%8D%A1-v1.jpg",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "银卡"
+    },
+    {
+      "trait_type": "主题",
+      "value": "万兽战团"
+    },
+    {
+      "trait_type": "原始编号",
+      "value": 43,
+      "display_type": "number"
+    }
+  ]
+}
