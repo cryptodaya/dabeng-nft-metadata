@@ -1,0 +1,20 @@
+{
+  "name": "大鹏神域 #198 · 双月观星塔",
+  "description": "大鹏神域 NFT 系列。图片与元数据以 IPFS 内容地址保存。",
+  "image": "ipfs://bafybeicwspm74icnj4b7xqeuc5umblnl45764dfhavueg47qts3i7qjqpi/images/%E9%92%BB%E7%9F%B3200/14-%E6%98%9F%E7%95%8C%E7%A5%9E%E6%AE%BF-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD196-200/198-%E5%8F%8C%E6%9C%88%E8%A7%82%E6%98%9F%E5%A1%94-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD-v1.png",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "钻石"
+    },
+    {
+      "trait_type": "主题",
+      "value": "星界神殿"
+    },
+    {
+      "trait_type": "原始编号",
+      "value": 198,
+      "display_type": "number"
+    }
+  ]
+}

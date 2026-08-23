@@ -1,0 +1,20 @@
+{
+  "name": "大鹏神域 #153 · 琥珀时轮印",
+  "description": "大鹏神域 NFT 系列。图片与元数据以 IPFS 内容地址保存。",
+  "image": "ipfs://bafybeicwspm74icnj4b7xqeuc5umblnl45764dfhavueg47qts3i7qjqpi/images/%E9%92%BB%E7%9F%B3200/11-%E5%AE%9D%E7%9F%B3%E7%AC%A6%E6%96%87-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD151-165/153-%E7%90%A5%E7%8F%80%E6%97%B6%E8%BD%AE%E5%8D%B0-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD-v1.png",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "钻石"
+    },
+    {
+      "trait_type": "主题",
+      "value": "宝石符文"
+    },
+    {
+      "trait_type": "原始编号",
+      "value": 153,
+      "display_type": "number"
+    }
+  ]
+}
