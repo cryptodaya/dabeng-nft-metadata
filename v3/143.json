@@ -1,0 +1,20 @@
+{
+  "name": "钻石 #143 · 太阳光耀熔炉",
+  "description": "大鹏神域 NFT 系列。图片存储于 IPFS，元数据通过链上 URI 提供。",
+  "image": "ipfs://bafybeicwspm74icnj4b7xqeuc5umblnl45764dfhavueg47qts3i7qjqpi/images/%E9%92%BB%E7%9F%B3200/10-%E5%85%83%E7%B4%A0%E7%86%94%E7%82%89-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD136-150/143-%E5%A4%AA%E9%98%B3%E5%85%89%E8%80%80%E7%86%94%E7%82%89-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD-v1.jpg",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "钻石"
+    },
+    {
+      "trait_type": "主题",
+      "value": "元素熔炉"
+    },
+    {
+      "trait_type": "原始编号",
+      "value": 143,
+      "display_type": "number"
+    }
+  ]
+}
