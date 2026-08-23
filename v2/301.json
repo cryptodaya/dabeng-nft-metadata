@@ -1,0 +1,20 @@
+{
+  "name": "大鹏神域 #301 · 熔炉轰城巨炮",
+  "description": "大鹏神域 NFT 系列。图片与元数据以 IPFS 内容地址保存。",
+  "image": "ipfs://bafybeicwspm74icnj4b7xqeuc5umblnl45764dfhavueg47qts3i7qjqpi/images/%E9%93%B6%E5%8D%A1200/07-%E6%88%98%E4%BA%89%E5%85%B5%E5%99%A8-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD091-105/101-%E7%86%94%E7%82%89%E8%BD%B0%E5%9F%8E%E5%B7%A8%E7%82%AE-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD-%E9%93%B6%E5%8D%A1-v1.jpg",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "银卡"
+    },
+    {
+      "trait_type": "主题",
+      "value": "战争兵器"
+    },
+    {
+      "trait_type": "原始编号",
+      "value": 101,
+      "display_type": "number"
+    }
+  ]
+}

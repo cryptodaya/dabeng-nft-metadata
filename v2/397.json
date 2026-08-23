@@ -1,0 +1,20 @@
+{
+  "name": "大鹏神域 #397 · 星轨祭坛",
+  "description": "大鹏神域 NFT 系列。图片与元数据以 IPFS 内容地址保存。",
+  "image": "ipfs://bafybeicwspm74icnj4b7xqeuc5umblnl45764dfhavueg47qts3i7qjqpi/images/%E9%93%B6%E5%8D%A1200/14-%E6%98%9F%E7%95%8C%E7%A5%9E%E6%AE%BF-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD196-200/197-%E6%98%9F%E8%BD%A8%E7%A5%AD%E5%9D%9B-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD-%E9%93%B6%E5%8D%A1-v1.jpg",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "银卡"
+    },
+    {
+      "trait_type": "主题",
+      "value": "星界神殿"
+    },
+    {
+      "trait_type": "原始编号",
+      "value": 197,
+      "display_type": "number"
+    }
+  ]
+}
