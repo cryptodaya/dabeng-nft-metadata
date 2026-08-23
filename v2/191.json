@@ -1,0 +1,20 @@
+{
+  "name": "大鹏神域 #191 · 沙海蜥皇图腾",
+  "description": "大鹏神域 NFT 系列。图片与元数据以 IPFS 内容地址保存。",
+  "image": "ipfs://bafybeicwspm74icnj4b7xqeuc5umblnl45764dfhavueg47qts3i7qjqpi/images/%E9%92%BB%E7%9F%B3200/13-%E8%8D%92%E9%87%8E%E5%9B%BE%E8%85%BE-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD181-195/191-%E6%B2%99%E6%B5%B7%E8%9C%A5%E7%9A%87%E5%9B%BE%E8%85%BE-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD-v1.jpg",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "钻石"
+    },
+    {
+      "trait_type": "主题",
+      "value": "荒野图腾"
+    },
+    {
+      "trait_type": "原始编号",
+      "value": 191,
+      "display_type": "number"
+    }
+  ]
+}
