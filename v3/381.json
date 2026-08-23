@@ -1,0 +1,20 @@
+{
+  "name": "银卡 #181 · 金角荒牛图腾",
+  "description": "大鹏神域 NFT 系列。图片存储于 IPFS，元数据通过链上 URI 提供。",
+  "image": "ipfs://bafybeicwspm74icnj4b7xqeuc5umblnl45764dfhavueg47qts3i7qjqpi/images/%E9%93%B6%E5%8D%A1200/13-%E8%8D%92%E9%87%8E%E5%9B%BE%E8%85%BE-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD181-195/181-%E9%87%91%E8%A7%92%E8%8D%92%E7%89%9B%E5%9B%BE%E8%85%BE-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD-%E9%93%B6%E5%8D%A1-v1.jpg",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "银卡"
+    },
+    {
+      "trait_type": "主题",
+      "value": "荒野图腾"
+    },
+    {
+      "trait_type": "原始编号",
+      "value": 181,
+      "display_type": "number"
+    }
+  ]
+}

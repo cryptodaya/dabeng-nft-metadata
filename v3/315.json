@@ -1,0 +1,20 @@
+{
+  "name": "银卡 #115 · 宝石星辉冠",
+  "description": "大鹏神域 NFT 系列。图片存储于 IPFS，元数据通过链上 URI 提供。",
+  "image": "ipfs://bafybeicwspm74icnj4b7xqeuc5umblnl45764dfhavueg47qts3i7qjqpi/images/%E9%93%B6%E5%8D%A1200/08-%E7%9A%87%E5%86%A0%E7%8E%8B%E6%9D%83-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD106-120/115-%E5%AE%9D%E7%9F%B3%E6%98%9F%E8%BE%89%E5%86%A0-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD-%E9%93%B6%E5%8D%A1-v1.jpg",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "银卡"
+    },
+    {
+      "trait_type": "主题",
+      "value": "皇冠王权"
+    },
+    {
+      "trait_type": "原始编号",
+      "value": 115,
+      "display_type": "number"
+    }
+  ]
+}
