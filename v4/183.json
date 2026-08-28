@@ -1,0 +1,20 @@
+{
+  "name": "钻石 #183 · 骨牙狼王图腾",
+  "description": "DBURN VIP · NFT 不只是一张 NFT，更是 DBURN 核心社区成员的长期身份凭证。",
+  "image": "ipfs://bafybeicwspm74icnj4b7xqeuc5umblnl45764dfhavueg47qts3i7qjqpi/images/%E9%92%BB%E7%9F%B3200/13-%E8%8D%92%E9%87%8E%E5%9B%BE%E8%85%BE-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD181-195/183-%E9%AA%A8%E7%89%99%E7%8B%BC%E7%8E%8B%E5%9B%BE%E8%85%BE-%E8%9E%8D%E5%90%88%E7%9B%BE%E5%BE%BD-v1.jpg",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "钻石"
+    },
+    {
+      "trait_type": "主题",
+      "value": "荒野图腾"
+    },
+    {
+      "trait_type": "原始编号",
+      "value": 183,
+      "display_type": "number"
+    }
+  ]
+}
